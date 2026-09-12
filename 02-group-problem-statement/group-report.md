@@ -321,8 +321,8 @@ Dừng dùng AI nếu qua pilot 5-10 paper mà tỷ lệ ý chính đúng dướ
 ---
 
 ### Self-check nộp phần 02 (nhóm)
-- [ ] Có nhật ký hội tụ 9-12 → 1 (cluster + shortlist + score)
-- [ ] Có validation (quote thật) + research (link kiểm được)
-- [ ] Có workflow trước/sau đủ thời gian, handoff, bottleneck, boundary, fallback
-- [ ] Có PS v0 → v1, metric có trước/sau + cách đo, boundary có làm/không làm
-- [ ] Có so sánh Rule/Workflow/Agent + Decision Go/Not Yet/No-Go có lý do
+- [x] Có nhật ký hội tụ 9-12 → 1 (cluster + shortlist + score)
+- [x] Có validation (quote thật) + research (link kiểm được)
+- [x] Có workflow trước/sau đủ thời gian, handoff, bottleneck, boundary, fallback
+- [x] Có PS v0 → v1, metric có trước/sau + cách đo, boundary có làm/không làm
+- [x] Có so sánh Rule/Workflow/Agent + Decision Go/Not Yet/No-Go có lý do
